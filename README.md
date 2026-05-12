@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEEA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
 ##DESCRIPTION:
 A Home Automation System is a hardware working model designed to control and automate household electrical appliances with minimal human effort. The project demonstrates the use of modern electronics and automation technology to make homes smarter, safer, and more energy-efficient. Home automation systems are becoming increasingly popular because they provide convenience, improve security, and reduce electricity consumption.
