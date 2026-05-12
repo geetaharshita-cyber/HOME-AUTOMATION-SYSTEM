@@ -32,3 +32,7 @@ The project can be further enhanced by adding smart security systems, biometric 
 One of the important benefits of home automation is energy conservation. Appliances are operated only when needed, reducing electricity bills and supporting sustainable living. Automated control also increases the lifespan of electrical devices because they are not kept running unnecessarily.
 
 In conclusion, the Home Automation System is an innovative and practical project that demonstrates the application of automation technology in modern homes. It combines electronics, sensors, and intelligent control systems to create a smart living environment. The project highlights the importance of automation, energy efficiency, and safety in improving the quality of life in today’s technologically advanced world.
+
+#OUTPUT
+
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/7318906c-d405-46ed-adb2-96670087a7ae" />
